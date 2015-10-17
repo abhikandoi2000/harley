@@ -34,7 +34,7 @@ Kinect based application to help autistic children with mobility impairment and 
 
 ![](http://i.imgur.com/l6VbZj2.png)
 
-## Contributers
+## Contributors
 
  - Abhishek Kandoi <abhikandoi2000@gmail.com>
  - Dhaval Kapil <dhavalkapil@gmail.com>
