@@ -4,7 +4,6 @@ Kinect based application to help autistic children with mobility impairment and 
 
 ## Features
 
- * 
  * Voice controlled interactions
  * Speech Synthesis for level engagements
 
