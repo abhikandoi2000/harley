@@ -1,15 +1,42 @@
 # Harley
 
-> Kinect based application to help autistic children with mobility impairment and shape selection problems
+Kinect based application to help autistic children with mobility impairment and shape selection problems
 
-## Designer
+## Features
 
-Parag Nandi
+ * 
+ * Voice controlled interactions
+ * Speech Synthesis for level engagements
 
-## Developers
+## Activities
 
-Abhishek Kandoi
+ * Star Jump
+ * Shape Drawing
+ * Facial Expressions
+ * Karaoke
+ * Hurdle Jump
 
-Dhaval Kapil
+## Screenshots
 
-Sopan Khosla
+####Homescreen
+
+![](http://i.imgur.com/deuLDjg.png)
+
+####Facial Expressions in play
+
+![](http://i.imgur.com/AZu5xjA.png)
+
+####Hurdle Jump in play
+
+![](http://i.imgur.com/r5uf1Lv.png)
+
+####Karaore or Word Play
+
+![](http://i.imgur.com/l6VbZj2.png)
+
+## Contributers
+
+ - Abhishek Kandoi <abhikandoi2000@gmail.com>
+ - Dhaval Kapil <dhavalkapil@gmail.com>
+ - Sopan Khosla
+ - Parag Nandi
